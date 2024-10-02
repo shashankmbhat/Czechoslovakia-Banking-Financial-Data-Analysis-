@@ -1,4 +1,4 @@
-Czechoslovakia Banking Financial Data Analysis.
+**Czechoslovakia Banking Financial Data Analysis.**
 
 NovyPro Link Click here to view project on PowerBI:  https://project.novypro.com/tDKS6k
 
