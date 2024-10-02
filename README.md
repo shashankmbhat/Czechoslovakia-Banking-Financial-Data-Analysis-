@@ -1,6 +1,6 @@
 Czechoslovakia Banking Financial Data Analysis.
 
-NovyPro Link:  https://project.novypro.com/tDKS6k
+NovyPro Link Click here to view project on PowerBI:  https://project.novypro.com/tDKS6k
 
 I am excited to share my latest project work on end-to-end financial data analysis project using the Czechoslovakia Bank dataset📊. This project is a fully functional automated financial model, where clients can simply upload data in AWS ☁️, and the dashboard will update automatically in Power BI. 🚀
 
